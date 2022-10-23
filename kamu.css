@@ -1,0 +1,33 @@
+
+.text{
+  background: url('thh.jpg')no-repeat center fixed;
+  background-size: cover;
+
+}
+.kk{
+	background-color: white;
+}
+.atas{
+	background-color:#2F4F4F ;
+}
+.tengah{
+	background-color:#5F9EA0 ;
+}
+.tengah:hover{
+	background-color: white;
+	color: red;
+}
+.hapus{
+	background-color:#5F9EA0 ;
+}
+.hapus:hover{
+	background-color: #FF0000;
+	color: black;
+}
+.ubah{
+	background-color:#5F9EA0 ;
+}
+.ubah:hover{
+	background-color: black;
+	color: black;
+}
